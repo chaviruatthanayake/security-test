@@ -18,3 +18,6 @@ app.post('/calc', (req, res) => {
 
 app.listen(3000);
 // testing webhook
+
+// Another secret to test
+const DATABASE_PASSWORD = "sk-proj-abcdefghijklmnopqrstuvwxyz123456";
